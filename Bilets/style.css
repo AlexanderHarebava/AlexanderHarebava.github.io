@@ -1,0 +1,26 @@
+body {
+   color:black;
+   background:white ;
+}
+
+.Main{
+   display: grid;
+   font-size: 2em;
+	font-family: Arial, Helvetica, sans-serif;
+   text-align:center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.InMain {
+   font-size:1em;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: left;
+   line-height:1.2em;
+   display:flex;
+   white-space:pre-line	;
+   border: solid grey 2px;
+   border-radius: 1px;
+   padding:1em;
+}
+
